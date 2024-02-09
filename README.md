@@ -47,6 +47,7 @@ Aline Daka
 Rafael Rudolf 
 Tay Olua 
 Visén 
+Mauricio Rossi
 Yuzuru Maeda 
 Ondrej e Johana Merta 
 
