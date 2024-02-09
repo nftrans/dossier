@@ -6,7 +6,7 @@
 
 state: 
 lea_blua - head-founder 
-ritamaria - vp-cooperative consultant 
+ritamaria - vp-cooperative consultant
 afka - cto-governance wizard
 
 council extended
