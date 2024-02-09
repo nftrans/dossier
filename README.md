@@ -70,7 +70,7 @@ Guta Nascimento
 Claudia Mansini 
 Cristina Santana 
 Juliano Kimura
-Rafael Castañeda 
+Rafael Castareda 
 Shima 
 Daoglas 
 Zeugh 
